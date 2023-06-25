@@ -1,0 +1,29 @@
+{
+  "reels": [0, 1, 2],
+  "symbols": [
+    { "name": "symbol1.png", "value": "Parabéns você ganhou 10% de desconto!" },
+    { "name": "symbol2.png", "value": "Parabéns você ganhou 20% de desconto!" },
+    { "name": "symbol3.png", "value": "Parabéns você ganhou 50% de desconto!" }
+  ],
+  "isSpinning": false,
+  "spinning": false,
+  "finalResult": "",
+  "formData": [
+    { "placeholder": "Email", "type": "email", "id": "email", "value": "" },
+    { "placeholder": "Nome", "type": "text", "id": "name", "value": "" },
+    { "placeholder": "Telefone: (xx) xxxxx-xxxx", "type": "tel", "id": "phone", "value": "" },
+    { "placeholder": "Gênero ex: Masculino", "type": "text", "id": "genero", "value": "" }
+  ],
+  "isPopupVisible": false,
+  "backgroundType": "jogo",
+  "backgroundImage": "caca-niquel3.png",
+  "backgroundVideo": "https://www.youtube.com/watch?v=z9JG3dpQbYs",
+  "autoplay": true,
+  "showCheckbox": true,
+  "popupData": {
+    "title": "GANHE até 50% OFF",
+    "subtitle": "Insira seus dados para girar e receber seu desconto!",
+    "titleVideo": "Titulo do Video",
+    "subtitleVideo": "Subtitulo do Video"
+  }
+}
